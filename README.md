@@ -19,7 +19,7 @@ Simple DirectMedia Layer is a cross-platform development library designed to pro
 
 ## Instalation 
 ```sh
-$ git clone https://github.com/nahomz/Maze.git
+$ git clone https://github.com/eden1014/Maze.git
 ```
 
 ## How to Compile and Run
@@ -45,9 +45,6 @@ This 3D maze uses raycasting to draw the maze walls, utilizing [LodeV's](http://
 
 ## Flowchart
 ![The Maze Flow Chart](https://i.imgur.com/t0MxNni.png)
-## Demo for maze project
-
-https://youtu.be/iTO567z2Lm4
 
 ### Resources
 - [SDL2 API](https://wiki.libsdl.org/CategoryAPI)
